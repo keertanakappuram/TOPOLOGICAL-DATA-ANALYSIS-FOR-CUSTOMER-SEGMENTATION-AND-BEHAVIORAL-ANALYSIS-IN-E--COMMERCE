@@ -1,18 +1,18 @@
 # TOPOLOGICAL-DATA-ANALYSIS-FOR-CUSTOMER-SEGMENTATION-AND-BEHAVIORAL-ANALYSIS-IN-E--COMMERCE
 
-PRESENTATION VIDEO:
+**PRESENTATION VIDEO:**
 
 Following presentation video is also attached under the file sections, it is called- 'Keertana Kappuram-DSC 214- Presentation.mp4'
 
 https://github.com/user-attachments/assets/10ce6188-b234-4776-ba63-546627f44638
 
-REPORT:
+**REPORT:**
 
 Following report is also attached under the file sections, it is called- 'Keertana Kappuram-DSC 214-Report'
 
 [Keertana Kappuram-DSC 214-Report.pdf](https://github.com/user-attachments/files/20682578/Keertana.Kappuram-DSC.214-Report.pdf)
 
-CODE:
+**CODE:**
 
 Code with output is in the file- 'Keertana_Kappuram_DSC_214_Code.ipynb'
 
